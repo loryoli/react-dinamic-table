@@ -1,0 +1,8 @@
+{
+  "short_name": "nomeComponente Site Area",
+  "name": "nomeComponente de conteúdos por site area",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
