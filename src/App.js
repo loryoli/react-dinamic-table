@@ -1,5 +1,5 @@
 import React from "react";
-import Index from "./Index.tsx";
+import Index from "./components/Index.tsx";
 
 const App = () => {
   return (
